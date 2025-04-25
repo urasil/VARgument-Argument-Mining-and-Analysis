@@ -1,0 +1,14 @@
+tk
+pandas
+numpy
+xlrd
+nltk
+scikit-learn
+transformers
+torch
+pardata
+accelerate>=0.21.0
+faiss-cpu
+datasets
+python-dotenv
+matplotlib

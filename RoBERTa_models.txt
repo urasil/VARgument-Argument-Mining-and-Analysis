@@ -1,0 +1,2 @@
+Use the following link to download the 4 RoBERTa models. These are not necessary for running VARgument.
+https://liveuclac-my.sharepoint.com/:f:/g/personal/zcabuas_ucl_ac_uk/EttMb0DETmFFpsDDT2_coK8BSDM_n2zXTG3rqw6n8U1ecg?e=hHfZUV
